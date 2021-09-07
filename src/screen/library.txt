@@ -1,0 +1,11 @@
+npm install react-native-maps --save
+npm i @react-native-community/async-storage
+npm install @react-navigation/native
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm i react-native-onboarding-swiper
+npm i react-native-otp-textinput
+npm i react-native-reanimated
+npm i react-native-responsive-screen
+npm i react-native-vector-icons
+npm install @react-navigation/drawer
+npm install @react-navigation/stack
