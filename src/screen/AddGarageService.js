@@ -291,37 +291,6 @@ const AddGarageService = (props) => {
                         backgroundColor: 'white',
                         padding: 10,
                     }}>
-                        {/* <MultiSelect
-                                // style={{ borderColor: colors.secondary_dark, backgroundColor: 'white', flexDirection: 'row', alignItems: 'center', borderWidth: 1, borderRadius: wp('2%'), width: wp('90%'), margin: 5, height: hp('6%'), }}
-                                styleDropdownMenu={{
-                                    borderColor: colors.secondary_dark,
-                                    backgroundColor: 'white',
-                                    // flexDirection: 'row',
-                                    // alignItems: 'center',
-                                    borderWidth: 1,
-                                    borderRadius: wp('5%'),
-                                    width: wp('70%'),
-                                    height: hp('3%')
-                                }}
-                                hideTags
-                                items={items}
-                                uniqueKey="id"
-                                onSelectedItemsChange={onSelectedItemsChange}
-                                selectedItems={selectedItems}
-                                selectText="Pick Items"
-                                searchInputPlaceholderText="Search Items..."
-                                onChangeInput={(text) => console.log(text)}
-                                tagRemoveIconColor="#CCC"
-                                tagBorderColor="#CCC"
-                                tagTextColor="#CCC"
-                                selectedItemTextColor="#CCC"
-                                selectedItemIconColor="#CCC"
-                                itemTextColor="#000"
-                                displayKey="name"
-                                searchInputStyle={{ color: '#CCC' }}
-                                submitButtonColor="#48d22b"
-                                submitButtonText="Submit"
-                            /> */}
                         <View>
                             <Text style={[{ marginTop: 20 }]}>Select Appointment Time:</Text>
                             <FlatList
