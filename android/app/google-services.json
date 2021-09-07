@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80534090553",
+    "project_id": "notificationapp-202e0",
+    "storage_bucket": "notificationapp-202e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80534090553:android:525dc47dc76c8c5e986ee8",
+        "android_client_info": {
+          "package_name": "com.monoheal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80534090553-6hdc5fti77l5buitfr2i3m9kp2eoafld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTS-MGHmIMATpNo2w1tVmXBb-BKltNi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80534090553-6hdc5fti77l5buitfr2i3m9kp2eoafld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
