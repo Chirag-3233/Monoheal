@@ -7,7 +7,7 @@ const colors = {
     secondary_light: '#efefef',
     secondary_dark: '#8d8d8d',
     header: 'rgb(238,240,242)',
-    primary_button: '#2e64e5'
+    primary_darkprimary_dark: '#2e64e5'
 
 }
 export default colors;
